@@ -1,0 +1,188 @@
+{
+     "posts": [
+          { "id": 1, "title": "Post 01 - Javascript e Next.js", "author": "JohnDoe" },
+          { "id": 2, "title": "Post 02 - Javascript e Node.js", "author": "JohnDoe" },
+          { "id": 3, "title": "Post 03 - Typescript", "author": "JohnDoe" },
+          { "id": 4, "title": "Post 04 - Javascript e ReactJs", "author": "JohnDoe" }
+     ],
+     "comments": [
+     { "id": 1, "body": "Comentario 1 sobre o post 1", "postId": 1 },
+     { "id": 2, "body": "Comentario 1 sobre o post 2", "postId": 2 },
+     { "id": 3, "body": "Comentario 1 sobre o post 3", "postId": 3 },
+     { "id": 4, "body": "Comentario 2 sobre o post 1", "postId": 1 },
+     { "id": 5, "body": "Comentario 2 sobre o post 2", "postId": 2 },
+     { "id": 6, "body": "Comentario 1 sobre o post 4", "postId": 4 }
+     ],
+     "profile": { "name": "JohnDoe" },
+  
+    "times": [
+     {
+          "id": 1,
+          "nome": "América Mineiro",
+          "cidade": "Belo Horizonte",
+          "estado": "MG",
+          "estadio": "Independência",
+          "capacidade": "23018"
+     },
+     {
+          "id": 2,
+          "nome": "Atlético Paranaense",
+          "cidade": "Curitiba",
+          "estado": "PR",
+          "estadio": "Arena da Baixada",
+          "capacidade": "42370"
+     },
+     {
+          "id": 3,
+          "nome": "Atlético Paranaense",
+          "cidade": "Curitiba",
+          "estado": "PR",
+          "estadio": "Arena da Baixada",
+          "capacidade": "42370"
+     },
+     {    
+          "id": 3,
+          "nome": "Atlético Goianiense", 
+          "cidade": "Goiânia",	
+          "estado": "GO",
+          "estadio": "Antônio Accioly",
+          "capacidade": "10 501"
+     },
+     {
+          "id": 4,
+          "nome": "Atlético Mineiro", 
+          "cidade": "Belo Horizonte",	
+          "estado": "MG",
+          "estadio": "Mineirão",
+          "capacidade": "61 846"
+     },
+     {
+          "id": 5,
+          "nome": "Avaí", 
+          "cidade": "Florianópolis",	
+          "estado": "SC",
+          "estadio": "Ressacada",
+          "capacidade": "17 800"
+     },
+     {
+          "id": 6,
+          "nome": "Botafogo", 
+          "cidade": "Rio de Janeiro",	
+          "estado": "RJ",
+          "estadio": "Nilton Santos",
+          "capacidade": "44 661"
+     },
+     {
+          "id": 7,
+          "nome": "Ceará", 
+          "cidade": "Fortaleza",	
+          "estado": "CE",
+          "estadio": "Arena Castelão",
+          "capacidade": "63 903"
+     },
+     {    
+          "id": 8,
+          "nome": "Corinthians", 
+          "cidade": "São Paulo",	
+          "estado": "SP",
+          "estadio": "Neo Química Arena",
+          "capacidade": "47 605"
+     },
+     {
+          "id": 9,
+          "nome": "Coritiba", 
+          "cidade": "Curitiba",	
+          "estado": "PR",
+          "estadio": "Couto Pereira",
+          "capacidade": "40 502"
+     },
+     {
+          "id": 10,
+          "nome": "Cuiabá", 
+          "cidade": "Cuiabá",	
+          "estado": "MT",
+          "estadio": "Arena Pantanal",
+          "capacidade": "44 097"
+     },
+     {         
+          "id": 11,
+          "nome": "Flamengo",	
+          "cidade": "Rio de Janeiro",	
+          "estado": "RJ",
+          "estadio": "Maracanã",
+          "capacidade": "78 838"
+     },
+     {
+          "id": 12,
+          "nome": "Fluminense",	
+          "cidade": "Rio de Janeiro",	
+          "estado": "RJ",
+          "estadio": "Maracanã",
+          "capacidade": "78 838"
+     },
+     {
+          "id": 13,
+          "nome": "Fortaleza",	
+          "cidade": "Fortaleza",	
+          "estado": "CE",
+          "estadio": "Arena Castelão",
+          "capacidade": "63 903"
+     },
+     {
+          "id": 14,
+          "nome": "Goiás",	
+          "cidade": "Goiânia"	,	
+          "estado": "GO",
+          "estadio": "Serrinha",
+          "capacidade": "16 500"
+     },
+     {
+          "id": 15,
+          "nome": "Internacional",	
+          "cidade": "Porto Alegre"	,	
+          "estado": "RS",
+          "estadio": "Beira-Rio",
+          "capacidade": "50 842"
+     },
+     {
+          "id": 16,
+          "nome": "Juventude",	
+          "cidade": "Caxias do Sul",	
+          "estado": "RS",
+          "estadio": "Alfredo Jaconi",
+          "capacidade": "19 924"
+     },
+     {
+          "id": 17,
+          "nome": "Palmeiras",	
+          "cidade": "São Paulo",	
+          "estado": "SP",
+          "estadio": "Allianz Parque",
+          "capacidade": "43 713"
+     },
+     {
+          "id": 18,
+          "nome": "Red Bull Bragantino", 
+          "cidade": "Bragança Paulista",	
+          "estado": "SP",
+          "estadio": "Nabi Abi Chedid",
+          "capacidade": "15 010"
+     },
+     {
+          "id": 19,
+          "nome": "Santos",	
+          "cidade": "Santos",	
+          "estado": "SP",
+          "estadio": "Vila Belmiro",
+          "capacidade": "16 068"
+     },
+     {
+          "id": 20,
+          "nome": "São Paulo",	
+          "cidade": "São Paulo",	
+          "estado": "SP",
+          "estadio": "Morumbi",
+          "capacidade": "72 039"
+     }
+     ]
+}
